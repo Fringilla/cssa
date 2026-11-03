@@ -1,4 +1,4 @@
-# [Full Stack Development with JavaScript<br><br>![Full Stack Development](https://res.cloudinary.com/production-eu/image/upload/c_crop,g_custom/a_exif,c_fill,dpr_1.0,f_auto,h_153,q_auto,w_262/v1784723002/dmiymstuz4hg0iipj2ee.webp)<p style="font-size: 1rem;">20 Learnlists, 2 Items</p>](https://learn.wincacademy.com/channels/15692)
+# [Full Stack Development with JavaScript<br><br>![Full Stack Development](https://res.cloudinary.com/production-eu/image/upload/c_crop,g_custom/a_exif,c_fill,dpr_1.0,f_auto,h_153,q_auto,w_262/v1784723002/dmiymstuz4hg0iipj2ee.webp)<p style="font-size: 0.8rem; font-style: italic">20 Learnlists, 2 Items</p>](https://learn.wincacademy.com/channels/15692)
 
 - [ ] [![Start Here](https://res.cloudinary.com/production-eu/image/upload/c_crop,g_custom/a_exif,c_fill,dpr_1.0,f_auto,h_153,q_auto,w_262/v1701095664/jfckihhlxsh3tj3hizox.webp)<br> **Start Here | Full-Stack Development with JavaScript**<br>*2 items - 5 hours*](https://learn.wincacademy.com/en/channels/15692/learnlists/start-here-full-stack-development-with-javascript)
 
