@@ -1,3 +1,4 @@
 dist/
-examples/
+3rdparty/
 node_modules/
+resources/
